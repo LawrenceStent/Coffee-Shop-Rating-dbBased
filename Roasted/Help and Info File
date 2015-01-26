@@ -1,0 +1,17 @@
+This app is for the user to input the coffee shop that they go to with all of its details,
+then to rate individually that coffee shops coffee and food.
+
+I created it as I moved to Cape Town over a while ago and as I walk through town I often frequent
+different coffee shops, however I also forget which ones had the best coffee/food if I wanted to go to them
+again. So, out of a neccesity to me this is the reason behind my app.
+
+In the database that I have included in the folder it stores a list of coffee shops in cape town, with
+the correct details and their ratings.
+
+
+How to use:
+The user inputs the name of coffee shop, on clicking add they are then taken to a dialogbox
+which asks for input of the shop details. Once this is done the shop can be selected from
+the dropdown, once selected the user can rate the coffee or food using the rating buttons.
+
+The user can also delete, view a single shop or view all the shops using the specific buttons.
